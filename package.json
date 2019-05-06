@@ -1,6 +1,6 @@
 {
   "name": "ucf-fe",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "轻量级门户框架",
   "main": "./build/index.js",
   "scripts": {
